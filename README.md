@@ -37,3 +37,10 @@ Intuitively, the paper argues that the **limits of verifiable knowledge** are no
 * what can be compressed without loss of exactness, and
 * what can be verified under physical constraints of locality.
 
+## License
+
+Unless otherwise specified in individual files:
+
+**All rights reserved.**
+
+The author explicitly permits reading, discussion, and critique.
