@@ -1,7 +1,7 @@
-# EPISTEMIC GEOMETRY
+# Epistemic Geometry
 FINITE VERIFICATION, CURVATURE, AND STRUCTURAL OBSTRUCTIONS ACROSS LOGIC, COMPUTATION, AND PHYSICS.
 
-[EPISTEMIC GEOMETRY](https://www.academia.edu/164549464/EPISTEMIC_GEOMETRY_FINITE_VERIFICATION_CURVATURE_AND_STRUCTURAL_OBSTRUCTIONS_ACROSS_LOGIC_COMPUTATION_AND_PHYSICS)
+[Epistemic Geometry](https://www.academia.edu/164549464/EPISTEMIC_GEOMETRY_FINITE_VERIFICATION_CURVATURE_AND_STRUCTURAL_OBSTRUCTIONS_ACROSS_LOGIC_COMPUTATION_AND_PHYSICS)
 
 The paper proposes a unifying idea: many scientific statements can be viewed as **finite sets of constraints** on variables (for example, “this interaction is local,” “this pattern is allowed,” “this state is reachable”), and scientific knowledge consists in **verifying** those constraints through **certificates** that can be independently audited.
 
@@ -38,6 +38,7 @@ Intuitively, the paper argues that the **limits of verifiable knowledge** are no
 * what can be verified under physical constraints of locality.
 
 # **Coherent Flow Theory**
+A COMPANION NOTE TO EPISTEMIC GEOMETRY
 
 [Coherent Flow Theory](https://www.academia.edu/164574243/COHERENT_FLOW_A_COMPANION_NOTE_TO_EPISTEMIC_GEOMETRY)
 
